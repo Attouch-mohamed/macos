@@ -1,9 +1,9 @@
 {"AdsController" :{
-    "AdmobId":"",
-    "OpenAdmob":"",
-    "BannerAdmob":"",
-    "NativeAdmob":"",
-    "InterstitialAdmob":"",
-    "InterSplashAdmob":""
+    "AdmobId":"pub-5407488668219485",
+    "OpenAdmob":"ca-app-pub-5407488668219485/5140510415",
+    "BannerAdmob":"ca-app-pub-5407488668219485/2366690182",
+    "NativeAdmob":"ca-app-pub-5407488668219485/3488200164",
+    "InterstitialAdmob":"ca-app-pub-5407488668219485/7427445173",
+    "InterSplashAdmob":"ca-app-pub-5407488668219485/742675585173"
 }
 }
